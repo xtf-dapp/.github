@@ -1,5 +1,13 @@
 ## XTF Platform
 
+#### 👩‍💻 Useful resources
+
+
+#### 🧙 Contributors
+
+- [shah-smit](https://github.com/shah-smit)
+- [Timothy](https://github.com/titmy)
+
 <!--
 
 **Here are some ideas to get you started:**
